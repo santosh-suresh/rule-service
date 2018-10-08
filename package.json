@@ -24,8 +24,6 @@
   },
   "devDependencies": {
     "nodemon": "^1.17.1",
-    "standard": "^10.0.3",
-    "tap-spec": "^4.1.1",
-    "tape": "^4.9.0"
+    "standard": "^10.0.3"
   }
 }
