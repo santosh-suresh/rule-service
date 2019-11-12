@@ -23,7 +23,7 @@
     "send-data": "^8.0.0"
   },
   "devDependencies": {
-    "nodemon": "1.18.9",
+    "nodemon": "1.19.4",
     "standard": "12.0.1"
   }
 }
