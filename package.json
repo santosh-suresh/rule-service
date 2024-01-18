@@ -17,7 +17,7 @@
     "http-hash-router": "^2.0.0",
     "lodash": "^4.17.5",
     "moment-timezone": "^0.5.14",
-    "productionize": "^4.0.0",
+    "productionize": "^5.0.0",
     "req-logger": "^2.0.0",
     "rrule-alt": "^2.2.8",
     "send-data": "^8.0.0"
